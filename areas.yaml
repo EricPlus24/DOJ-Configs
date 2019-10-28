@@ -1,0 +1,295 @@
+- area: Join Another Area
+  background: Area_notify
+  bglock: true
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: false
+  showname_changes_allowed: false
+  shouts_allowed: false
+- area: Greetings Gathering
+  background: dpb_RiverForest
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: false
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Role Play 1
+  background: mv_field
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: false
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Role Play 2
+  background: rt_beauplains
+  bglock: false
+  evidence_mod: FFA
+  locking_allowed: false
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Role Play 3 Lockable
+  background: mv_snowtown
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Role Play 4 Lockable
+  background: xp_town
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Moderation Module
+  background: test
+  bglock: true
+  evidence_mod: Mods
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+- area: ===== Grass Continent ====
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ====== Crossroads ======
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Crossroads
+  background: eos_crossroad
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: CR - Spinda Cafe
+  background: eos_spindacafe
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ====== Treasure Town ======
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 1 - Bank
+  background: eos_tt_bank
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 2 - Electrivire Link Shop
+  background: eos_tt_link
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 3 - Bridge
+  background: eos_tt_bridge
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 4 - Kecleon Item Bazaar
+  background: eos_tt_shop
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 5 - Kangaskhan Storage
+  background: eos_tt_storage
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 6 - Sharpedo Bluff Ext
+  background: eos_sharpedobluffext_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: TT 7 - Sharpedo Bluff Int
+  background: eos_SharpedoBluff_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ====== Wigglytuff's Guild ======
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 1 - Exterior
+  background: eos_wg_extday
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 2 - Top Floor
+  background: eos_wg_1stfloor
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 3 - Sublevel 1
+  background: eos_wg_2ndfloor
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 4a - Sublevel 2
+  background: eos_wg_3rdfloor
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 5 - Hallway
+  background: eos_wg_hallway
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 4b - Mess Hall
+  background: eos_wg_messhall
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 4c - Guildmaster Chamber
+  background: eos_wg_gmchamber
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Guild 4d - Sentry Post
+  background: eos_wg_sentry
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ====== The Beach ======
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Beach 1 - Path to Beach
+  background: eos_beachpath
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Beach 2 - Beach
+  background: eos_beach_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Beach 3 - Beach Cave Ext
+  background: eos_beachcaveext_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Beach 4 - Beach Cave Int
+  background: eos_beachcaveint_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ===== Dungeons =====
+  background: pkmn-forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Forest Dungeon
+  background: mv_forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Cave Dungeon
+  background: mv_rockcave
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Wasteland Dungeon
+  background: mv_wasteland
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
