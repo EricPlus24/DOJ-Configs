@@ -53,7 +53,7 @@
   locking_allowed: true
   iniswap_allowed: true
   showname_changes_allowed: true
-- area: ===== Grass Continent ====
+- area: ==== Grass Continent ====
   background: pkmn-forest
   bglock: false
   evidence_mod: CM
@@ -287,6 +287,158 @@
   shouts_allowed: false
 - area: Wasteland Dungeon
   background: mv_wasteland
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ==== Air Continent ====
+  background: 
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ===== Crossroads =====
+  background: 
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Crossroads
+  background: rt_crossroads
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ===== Pokemon Square =====
+  background: pkmn_forest
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Kecleon Shop and Bridge
+  background: rt_ps_shopbridge
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Kangaskhan Storage
+  background: rt_ps_storage
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Pokemon Square Plaza
+  background: rt_ps_plaza
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Pokemon Square North Path
+  background: rt_ps_northpath
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Path to Wihscash Pond
+  background: rt_wihscashpath
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Wihscash Pond
+  background: rt_wihscashpond
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: ??? (Luminous Cave)
+  background: 
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Wigglytuff Club / Felicity Bank
+  background: rt_ps_friendbank
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Path to Pelipper Post Office
+  background: rt_postpath_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Pelipper Post Office Exterior
+  background: rt_postext_g
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Pelipper Post Office Interior
+  background: rt_postint
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Gulpin Link Shop
+  background: rt_ps_link
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Makuhita Dojo
+  background: rt_ps_dojoext
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Dojo - Training Dungeons (X)
+  background: 
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Dojo - Rescue Team Battle Rooms (X)
+  background: 
   bglock: false
   evidence_mod: CM
   locking_allowed: true
