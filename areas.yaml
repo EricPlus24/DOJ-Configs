@@ -317,6 +317,86 @@
   iniswap_allowed: true
   showname_changes_allowed: true
   shouts_allowed: false
+- area: Acorn Base Exterior
+  background: rt_BaseOther
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Acorn Base Interior
+  background: rt_BaseOtherInt1
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Furnace Base Exterior
+  background: rt_BaseFire
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Furnace Base Interior
+  background: rt_BaseFireInt1
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Bulb Base Exterior
+  background: rt_BaseGrass
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Bulb Base Interior
+  background: rt_BaseGrassInt1
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Rock Base Exterior
+  background: rt_BaseRock
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Rock Base Interior
+  background: rt_BaseRockInt1
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Shack Base Exterior
+  background: rt_BaseWater
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
+- area: Shack Base Interior
+  background: rt_BaseWaterInt1
+  bglock: false
+  evidence_mod: CM
+  locking_allowed: true
+  iniswap_allowed: true
+  showname_changes_allowed: true
+  shouts_allowed: false
 - area: ===== Pokemon Square =====
   background: pkmn_forest
   bglock: false
