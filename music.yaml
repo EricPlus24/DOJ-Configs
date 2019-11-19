@@ -1652,6 +1652,8 @@
       length: 51.447
     - name: Driftveil City Gym (B2W2).opus
       length: 85.764
+    - name: Kantonian Gym (USUM).opus
+      length: 142.811
     - name: Hall of Fame (LGPE).opus
       length: 62.981
     - name: Poke Floats (SSBM  - SSBU).opus
@@ -1676,12 +1678,84 @@
       length: 438.412
     - name: Rivers in the Desert - Instrumental Version (P5).opus
       length: 310.178
+    - name: Our Beginning - Final Boss 1st Form (P5).opus
+      length: 353.867
     - name: Our Beginning - P5 DLC (SSBU).opus
       length: 155.019
+    - name: Aria of the Soul Remix - P5 to P1 DLC (SSBU).opus
+      length: 287.928
+    - name: Battle Hymn of the Soul ~ Orginal - P5 to P3 DLC (SSBU).opus
+      length: 346.130
+    - name: Normal Battle Theme 1 (PQ2 New Cinema Labyrinth).opus
+      length: 396.399
+    - name: FOE Miniboss Theme 2 (PQ2 New Cinema Labyrinth).opus
+      length: 200.595
+    - name: Boss Battle Theme 3 (PQ2 New Cinema Labyrinth).opus
+      length: 206.247
     - name: Dragons Temple (P&DZ).opus
       length: 252.813
     - name: Challenge Battle (P&DZ).opus
       length: 252.813
+    - name: Syrup's Theme (P&DZ).opus
+      length: 118.570
+    - name: Friend's Theme (P&DZ).opus
+      length: 157.283
+    - name: Tension (P&DZ).opus
+      length: 90.122
+    - name: The Windmill Song (Klonoa).opus
+      length: 276.267
+    - name: Red Heat Coronia (Klonoa).opus
+      length: 570.567
+    - name: Joker Mood (Klonoa).opus
+      length: 74.703
+    - name: No Jokes Around (Klonoa).opus
+      length: 225.327
+    - name: Fighting Spirit - Symphonic Version (DQ Series).opus
+      length: 122.906
+    - name: Fighting Spirits - DQ Series DLC (SSBU).opus
+      length: 86.968
+    - name: Battle for Glory - Symphonic Version (DQ Series).opus
+      length: 258.978
+    - name: Battle for the Glory - DQ Series DLC (SSBU).opus
+      length: 130.307
+    - name: War Cry - Symphonic Version (DQ Series).opus
+      length: 202.035
+    - name: War Cry - DQ Series DLC (SSBU).opus
+      length: 202.660
+    - name: Unflinchable Courage - Symphonic Version (DQ Series).opus
+      length: 237.976
+    - name: Unflinchable Courage - DQ Series DLC (SSBU).opus
+      length: 230.886
+    - name: Town - Main Street (LTH).opus
+      length: 431.232
+    - name: Battle! (LTH).opus
+      length: 190.056
+    - name: Battle at the Village! ~ Hulk Ogre Battle (LTH).opus
+      length: 290.664
+    - name: Break the Time Factor (Tales of Series).opus
+      length: 265.155
+    - name: Dogfight - Remix (Tales of Rebirth).opus
+      length: 206.050
+    - name: Fighting of the Spirit - Remix (Tales of Phantasia).opus
+      length: 191.044
+    - name: Fatalize (Tales of Symphonia).opus
+      length: 127.797
+    - name: Night of Fate - Recoded Version (KH Series).opus
+      length: 125.074
+    - name: Rowdy Rumble - Recoded Version (KH Series).opus
+      length: 157.074
+    - name: Neverquest Dragon Battle - DS Version (The Simpsons Game).opus
+      length: 453.020
+    - name: Sparklemon Battle (The Simpsons Game).opus
+      length: 375.527
+    - name: Dueling Draco Malfoy - Quidditch 1 (Harry Potter Series).opus
+      length: 226.186
+    - name: Fight Basilisk (Harry Potter Series).opus
+      length: 107.272
+    - name: Grass Tennis Court (SMB2).opus
+      length: 123.768
+    - name: M Bison's Theme - Critical ~ No Intro (USF2 - TFC).opus
+      length: 127.986
 - category: === GamixHyperdrive Section ===
   songs:
     - name: GHOST TRICK.opus
@@ -1738,3 +1812,11 @@
       length: 90.358
     - name: eplus_Boss Battle II (Your Turn) (Miitopia).opus
       length: 90.351
+- category: === ChiDragon Section ===
+  songs:
+    - name: Crossing Field.opus
+      length: 247.771
+- category: === Pocket Section ===
+  songs:
+    - name: Welcome to the World of Pokemon (Spirit Chronicles).opus
+      length: 246.642
